@@ -1,0 +1,7 @@
+name = "RefClosures"
+uuid = "4cad33ce-53a6-4c3d-a7c0-e9b5d2e43dec"
+authors = ["SixZero <havliktomi@hotmail.com>"]
+version = "0.1.0"
+
+[deps]
+SyntaxTree = "a4af3ec5-f8ac-5fed-a759-c2e80b4d74cb"
